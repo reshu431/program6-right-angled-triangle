@@ -1,0 +1,1 @@
+# program6-right-angled-triangle
